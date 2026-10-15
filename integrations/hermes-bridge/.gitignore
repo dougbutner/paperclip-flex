@@ -1,0 +1,6 @@
+logs/
+out/
+*.log
+*.sqlite
+*.sqlite3
+*.session-token

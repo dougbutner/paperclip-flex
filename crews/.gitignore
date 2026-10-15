@@ -1,0 +1,7 @@
+.venv/
+.crewai/
+__pycache__/
+*.py[cod]
+*.sqlite
+*.sqlite3
+*.session-token
